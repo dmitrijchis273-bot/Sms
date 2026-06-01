@@ -1,0 +1,44 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/.DS_Store
+backend/npm-debug.log
+backend/yarn-error.log
+
+# Android
+.gradle
+.idea
+local.properties
+*.iml
+*.apk
+*.aar
+*.ap_
+*.aab
+.DS_Store
+build/
+bin/
+gen/
+*.dex
+*.class
+*.jar
+.classpath
+.project
+.settings/
+android-ndk-r*
+.cxx/
+
+# IDEs
+.vscode/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
